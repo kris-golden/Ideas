@@ -1,0 +1,2 @@
+# Ideas
+Repository of ideas.
